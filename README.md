@@ -12,3 +12,5 @@ To do list (sebagian) penulisan tugas akhir, tesis, dan disertasi. Gunakan [EYD 
 - Kesimpulan menjawab rumusan masalah ditambah dengan temuan penting di eksperimen
 - Awal bab selalu diawali di halaman ganjil
 - Tidak ada _space_ kosong yang lebar di tengah bab
+- Pada saat memanggil gambar atau tabel di paragraf, pastikan huruf "G" pada "Gambar" dan "T" dan "Tabel" ditulis kapital
+- Pastikan menulis titik di akhir kalimat atau paragraf.

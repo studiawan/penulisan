@@ -17,3 +17,4 @@ To do list (sebagian) penulisan tugas akhir, tesis, dan disertasi. Gunakan [EYD 
 - Pastikan menulis titik di akhir kalimat atau paragraf
 - Penulisan istilah harus konsisten dari awal sampai akhir, misal "_external memory_" atau "memori internal". Pilih salah satu istilah saja dan digunakan secara konsisten dari awal sampai akhir buku
 - Sebelum titik dua, tanpa spasi
+- "di" diberi spasi jika kata yang mengikuti menunjukkan tempat, contoh: di pasar. sehingga, pada kata "diekstrak" tidak ada spasi setelah "di"
